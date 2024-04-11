@@ -1,4 +1,4 @@
-<<h1>Landing page procedure</h1>
+<h1>Landing page procedure</h1>
 <h3>Table of content</h3>
 <ol>
 <li>description
